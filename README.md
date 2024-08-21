@@ -84,8 +84,8 @@ The BS allocates the time slots of sensing, uplink or downlink to the most suita
 
 
 **Results**
-![](results/pdf_per.png){width=33%}![](results/slot_dist.png){width=33%} ![](results/drop_dist.png){width=33%}
 
+<img src="results/pdf_per.png" width=300 > <img src="results/slot_dist.png" width=307 > <img src="results/drop_dist.png" width=313 >
 
 <!--## Any other suggestions. --> ​
 
